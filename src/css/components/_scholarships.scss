@@ -1,0 +1,58 @@
+.scholarship-section-container{
+    // background-color: black;
+}
+
+.scholarship-intro {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    
+}
+
+.scholarship-title{
+    // padding-left: 90px;
+    color: white;
+    font-family: "bebas neue";
+    font-size: 90px;
+}
+
+.scholarship-paragraph{
+    color: white;
+    // padding-left: 90px;
+}
+
+.scholarship-button{
+    // padding-left: 90px;
+    // background-color: grey;
+}
+
+.scholarship-main{
+    padding-left: 90px;
+    padding-right: 100px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.scholarship-main-left ul{
+    display: flex;
+    gap: 1rem;
+}
+
+.scholarship-main-left ul a{
+    color: black;
+}
+
+.scholarship-main-left{
+    // display:flex;
+}
+
+.scholarship-main-paragraph{
+    padding-top: 25px;
+    font-family:"palatino";
+    font-size: 15px;
+}
+
+.scholarship-main-right img{
+    width: 300px;
+}

@@ -1,0 +1,44 @@
+.slider-card-container {
+    background-color: var(--light-grey-2);
+    // margin-top: 45px;
+    padding-top: calc(var(--baseline)*2);
+    padding-bottom: calc(var(--baseline)*2);
+}
+
+
+.slider-middle-container {
+    // padding-left:90px;
+}
+.slider-title{
+    border-top: 1px solid grey;
+    font-family: "bebas-neue-by-fontfabric";
+    padding-top: 15px;
+    padding-bottom: 35px;
+}
+
+.art-card img {
+    // padding-left: 90px;
+    height: 80%;
+}
+
+.art-card h2 {
+    // padding-left: 90px;
+    color: black;
+}
+
+.slider-tabs {
+    display: flex;
+    gap: 1rem;
+    padding-bottom: 1rem;
+}
+
+.slider-tabs a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.gradient {
+    background: linear-gradient(90deg,#999999 0%, #999999 100%);
+    height: 2px;
+  }

@@ -1,0 +1,165 @@
+.hero {
+    // background-color: black;
+}
+
+.search__form {
+    display: flex;
+    margin: 0 auto;
+}
+
+.search__label {
+    position: absolute;
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip:rect(0 0 0 0);
+    border:0;
+}
+
+.search__input{
+    font-size: 1.5rem;
+    line-height: 1.2;
+    background-color: transparent;
+    width: 100%;
+    color: #fff;
+    display: block;
+    padding: calc(1.5rem/2) 0;
+    border: 0 none;
+    border-bottom: 2px solid #cccccc;
+    -webkit-appearance: none;
+    appearance: none;
+    -moz-appearance: textfield;
+    min-width: 250px;
+}
+
+.search__submit {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #999999;
+    color: red;
+    padding: 0 6px;
+    border-radius: 0;
+    margin-left: 1px;
+}
+
+.visuallyhidden {
+    position: absolute;
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    border: 0;
+}
+
+.homepage-hero__title{
+    color: white;
+    font-family: "bebas-neue-by-fontfabric";
+    // padding-left: 90px;
+    align-items: center;
+    font-size: 55px;
+}
+.homepage-hero{
+    padding-left: 90px;
+    padding-top: 100px;
+    color: white;
+}
+
+.gradient {
+    background: linear-gradient(90deg,#999999 0%, #999999 100%);
+    height: 2px;
+  }
+
+  .hero-sections {
+    // background-color: black;
+  }
+
+.hero-title{
+    font-family: "bebas-neue";
+    font-size: 15px;
+    padding-bottom: 45px;
+}
+
+.homepage-icon{
+    padding-right: 55px;
+   
+}
+
+.homepage-icon:nth-child(2){
+    padding-top: 15px;
+   
+}
+.hero-list__subtitle:nth-child(1){
+    padding-top: 15px;
+}
+.hero-list {
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 15px;
+   
+}
+.hero-title{
+    // padding-left: 90px;
+    padding-top: 15px;
+    color: white;
+}
+
+.hero-list__subtitle{
+    // padding-left: 90px;
+    color:white;
+    font-family: "bebas-neue-by-fontfabric";
+    font-size: 50px;
+}
+.hero-list__subtitle a {
+    padding-right: 35px;
+  
+}
+
+.hero-footer-sections {
+    border-top: 15px;
+    padding-top: 15px;
+    // background-color: #F2C9C2;
+}
+
+.hero-footer-sections .hero-title {
+    color: black;
+}
+
+.hero-footer-sections .homepage-label {
+    color: black;
+}
+
+
+.hero-list__subtitle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    
+}
+
+.nav-middle img {
+  padding-right: 45px;  
+}
+
+.hero-list__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+}
+
+.hero-footer__subtitle {
+    display: flex;
+    font-family: "bebas-neue-by-fontfabric";
+    font-size: 50px;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    
+}

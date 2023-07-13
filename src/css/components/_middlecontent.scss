@@ -1,0 +1,27 @@
+.middle-content {
+    // padding-left: 90px;
+    // padding-top: 100px;
+    display: flex;
+    background-color: var(--light-grey-1);
+}
+
+.left-side {
+    width: 33%;
+    font-family: "bebas-neue-by-fontfabric";
+    font-size: 40px;
+}
+
+.right-side {
+    width: 66%;
+    margin-top: 10px;
+    font-family: "palatino";
+}
+
+.right-side a {
+   color: black;
+    margin-top: 20px;
+    font-family: "palatino";
+}
+
+
+

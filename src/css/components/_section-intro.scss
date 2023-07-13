@@ -1,0 +1,43 @@
+@import url("https://use.typekit.net/lhb2nqx.css");
+@import url("https://use.typekit.net/lhb2nqx.css");
+
+
+// .section-intro{
+//     @include v-space;
+//     border-top:1px solid var(--off-black);
+// }
+
+.container {
+    // background-color: black;
+}
+
+.section-intro-title {
+    color: var(--mid-grey-1);
+    font-family: "palatino";
+    padding-top: 60px;
+    font-size: 21px;
+    letter-spacing: -1px;
+}
+
+.section-intro-p {
+    color: white;
+    font-family:"bebas-neue-by-fontfabric";
+    padding-top: 15px;
+    letter-spacing: -2px;
+    font-size: 100px;
+    line-height: 95%;
+    
+}
+
+.grey-area {
+    font-family: "bebas-neue-by-fontfabric";
+    color: var(--mid-grey-2);
+}
+
+.section-intro-content {
+    font-family: "palatino normal";
+    color: var(--mid-grey-1);
+    font-size: 20px;
+    line-height: 110%;
+
+}

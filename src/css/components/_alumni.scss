@@ -1,0 +1,47 @@
+.alumni-content {
+    // padding-left: 90px;
+    // background-color: black;
+    padding-right: 90px;
+}
+
+.gradient {
+    background: linear-gradient(90deg,#999999 0%, #999999 100%);
+    height: 2px;
+}
+
+.alumni-top {
+    border-top:1px solid grey;
+    padding-top: 45px;
+    display: flex;
+}
+
+.alumni-left-side {
+    width: 33%;
+}
+
+.alumni-content-title{
+    font-family: "bebas neue";
+    font-size: 45px;
+    color: white;
+}
+
+.alumni-content-content{
+    color: white;
+}
+
+.alumni-content-content .a {
+    color: white;
+}
+.alumni-right-side {
+    width: 66%;
+}
+
+.alumni-bottom {
+    padding-top: 75px;
+    display: flex;
+}
+
+.alumni-description{
+    display: flex;
+    color: white;
+}

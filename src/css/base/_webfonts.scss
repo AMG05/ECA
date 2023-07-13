@@ -1,0 +1,37 @@
+@import url("https://use.typekit.net/lhb2nqx.css");
+    @font-face{
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        src:url()
+    }
+
+
+
+
+
+
+
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=d94732e9-1ded-43d0-9f93-fea4a0ee8ccc");
+    @font-face{
+        font-family:"Helvetica Now Display";
+        font-weight: 200;
+        font-style: normal;
+        font-display: swap;
+        src:url("/static/fonts/0823bbe6-3830-440b-9d3e-6d548239cf65.woff2") format("woff2"),
+        url("/static/fonts/e4ec8fc5-9a4d-422b-a031-740b0e21f14f.woff") format("woff");
+    }
+
+    
+    @font-face {
+        font-family:"avenir-heavy";
+        src: url("src\assets\fonts\avenir_heavy-webfont.woff2") format("woff2"),
+             url("src\assets\fonts\avenir_heavy-webfont.woff2") format("woff");
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: "palatino normal";
+        src: url("src\assets\fonts\Palatino Normal.ttf");
+    }
